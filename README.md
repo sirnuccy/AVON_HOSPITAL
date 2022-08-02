@@ -1,5 +1,7 @@
 # HOSPITAL_WEBSITE
 
+The link to the live view : https://sirnuccy.github.io/AVON_HOSPITAL
+
 Responsive website created.
 
 Type - Hospital
